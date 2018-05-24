@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="rogueTeam_game.GameConfig" project="my-gdx-game-core" 
+    file="/my-gdx-game-core/src/rogueTeam_game/GameConfig.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1006" width="271" x="430" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="rogueTeam_game.GameUtils" project="my-gdx-game-core" 
+    file="/my-gdx-game-core/src/rogueTeam_game/GameUtils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="405" x="741" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="rogueTeam_game.Score" project="my-gdx-game-core" 
+    file="/my-gdx-game-core/src/rogueTeam_game/Score.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="139" x="1186" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="rogueTeam_game.Identifier" project="my-gdx-game-core" 
+    file="/my-gdx-game-core/src/rogueTeam_game/Identifier.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="172" x="1365" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="rogueTeam_game.Checker" project="my-gdx-game-core" 
+    file="/my-gdx-game-core/src/rogueTeam_game/Checker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="174" x="1577" y="-349"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="6" language="java" name="rogueTeam_game" project="my-gdx-game-core" 
+    file="/my-gdx-game-core/src/rogueTeam_game" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="150" x="44" y="-376"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
